@@ -1,0 +1,44 @@
+{
+    "question": [
+      "Q1. Quién gano la Segunda Guerra Mundial?",
+      "Q2. Cómo se llamó la operación para invadir a la URSS?",
+      "Q3. Cuando murió Roosevelt?",
+      "Q4. Cuando acabó la guerra?",
+      "Q5. Cómo se llama la chica del principio del juego?"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "options": [
+  
+      ["Los Aliados",
+        "Alemania",
+        "Las potencias del Eje",
+        "Unión Sovietica"
+      ],
+      ["Österrewesten",
+        "Barbarroja",
+        "Guerra patria",
+        "Lebenraum"
+      ],
+      ["1948",
+        "1939",
+        "1945",
+        "1944"
+      ],
+      ["1948",
+        "1945",
+        "1942",
+        "1952"
+      ],
+      ["Sayori",
+        "Monika",
+        "Yuri",
+        "Natsuki"
+      ]
+    ]
+  }
