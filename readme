@@ -1,5 +1,12 @@
-Estos son los archivos que se utilizaron para elaborar este proyecto para un trabajo escolar y a continuacion explicare los distintas carpetas que se ubica en el mismo.
+Estos son los archivos que se utilizaron para elaborar este proyecto para un trabajo escolar y a continuacion explicare las distintas carpetas que se ubica en el mismo.
 
 Carpeta de "test" en ella están todas las pruebas que se hicieron para que el proyecto final quede finalizado como en "test_1.py" esta la base de todo, 
 que se uso para crear también la base de "test_3.py" en donde se le agrego las preguntas finales y de ahí hasta el proyecto final.
 
+Luego se creó una carpeta llamada "game" en donde también se hicieron pruebas con la herramienta llamada "Tkinter" para que la aplicación se pueda ver no solamente desde la terminal sino que también como si fuera otra ventana.
+
+Y hasta ya en la carpeta de "Project" es el donde se contiene los archivos finales y que son los definitivos ya en la ejecución de la aplicación y es como se va a entregar.
+
+Aquí estan los archivos utilizados para este trabajo, lo puedes utilizar, pero por lo menos añade en alguna parte de tu trabajo que te basaste en otra persona.
+
+Gracias MDMLA
