@@ -66,7 +66,7 @@ print("¡Buen juego!")
 
 #Number of mistakes of the Usuary
 
-if x == i:
+if x < i:
     print(f'Tu número de errores cometidos {x}')
 else:
     print("No cometiste errores, felicidades")
