@@ -1,8 +1,38 @@
 {
     "question": [
-      "Q1. ¿Cual es la principal funcion de los carbohidratos?"
+      "Q1. ¿Cual es la principal funcion de los carbohidratos?",
+      "Q2. ¿Cual es la formula general de los carbohidratos?",
+      "Q3. ¿Que son los lipidos?",
+      "Q4. ¿Que funciones cumplen los lipidos en el organismo humano?",
+      "Q5. ¿Como estan compuestas las proteinas?",
+      "Q6. ¿Que son las proteinas?",
+      "Q7. ¿A que se le llama mutacion?",
+      "Q8. ¿Por que esta formado el ADN?",
+      "Q9. ¿Que es la combustion?",
+      "Q10. ¿A que se le denomina como combustible?",
+      "Q11. ¿Que es un polimero?",
+      "Q12. ¿Que es la biomasa?",
+      "Q13. ¿Que es la fermentacion?",
+      "Q14. ¿Cuales son algunos beneficios de la fermentacion?",
+      "Q15. ¿Que es la reaccion saponificacion?",
+      "Extra. ¿Cuantas preguntas fueron? (Kit Kat)"
     ],
     "answer": [
+      2,
+      1,
+      4,
+      2,
+      3,
+      1,
+      2,
+      1,
+      4,
+      2,
+      3,
+      2,
+      1,
+      3,
+      4,
       1
     ],
     "options": [
@@ -11,6 +41,81 @@
         "Dar energia al cuerpo",
         "Dar grasa al cuerpo",
         "Dar mas movilidad al cuerpo"
+      ],
+      ["CN(H2O)N",
+        "CN(HO)NH",
+        "CH2(H2O2)N",
+        "CH2(HO2)N"
+      ],
+      ["",
+        "",
+        "",
+        "Son biomoleculas que son solubles en solventes organicos"
+      ],
+      ["",
+        "Dar energia de reserva, proteger a los organos, transportan vitaminas",
+        "",
+        ""
+      ],
+      ["",
+        "",
+        "Carbono, hidrogeno, oxigeno y nitrogeno",
+        ""
+      ],
+      ["Son macromoleculas que estan formadas por aminoacidos unidos por peptidicos",
+        "",
+        "",
+        ""
+      ],
+      ["",
+        "Un cambio permanente en la estructura primaria del ADN",
+        "",
+        ""
+      ],
+      ["Por un grupo fosfato, unido a una desoxirribosa y una base nitrogenada",
+        "",
+        "",
+        ""
+      ],
+      ["",
+        "",
+        "",
+        "Una reaccion quimica que se lleva a cabo entre una sustancia y el oxígeno"
+      ],
+      ["",
+        "A la sustancia o la mezcla que se lleva a combustion",
+        "",
+        ""
+      ],
+      ["",
+        "",
+        "Es una molecula gigante compuesta por una unidad basica llamada monomero",
+        ""
+      ],
+      ["Toda la materia organica que se encuentra en la tierra",
+        "",
+        "",
+        ""
+      ],
+      ["",
+        "Es una reaccion quimica de compuestos organicos",
+        "",
+        ""
+      ],
+      ["",
+        "",
+        "La conversion del mosto en vino, la cebada en cerveza a traves del etanol",
+        ""
+      ],
+      ["",
+        "",
+        "",
+        "Es la reaccion mediante se produce jabon a partir de grasas o aceites"
+      ],
+      ["15",
+        "12",
+        "20",
+        "18"
       ]
     ]
   }

@@ -60,15 +60,15 @@ class Quiz:
 
 	def buttons(self):
 		
-		next_button = Button(root, text="Next",command=self.next_btn,
-		width=10,bg="green",fg="white",font=("ariel",16,"bold"))
+		next_button = Button(root, text="Siguiente",command=self.next_btn,
+		width=10,bg="green",fg="white",font=("ariel",18,"bold"))
 		
-		next_button.place(x=350,y=380)
+		next_button.place(x=420,y=380)
 		
-		quit_button = Button(root, text="Quit", command=root.destroy,
-		width=5,bg="red", fg="white",font=("ariel",16," bold"))
+		quit_button = Button(root, text="Salir", command=root.destroy,
+		width=6,bg="red", fg="white",font=("ariel",16," bold"))
 		
-		quit_button.place(x=700,y=50)
+		quit_button.place(x=900,y=50)
 
 	def display_options(self):
 		val=0
@@ -89,7 +89,7 @@ class Quiz:
 	def display_title(self):
 
 		title = Label(root, text="Juego de Carbono",
-		width=50, bg="black",fg="white", font=("ariel", 20, "bold"))
+		width=60, bg="black",fg="white", font=("ariel", 20, "bold"))
 
 		title.place(x=0, y=2)
 
@@ -113,7 +113,7 @@ class Quiz:
 		return q_list
 
 root = Tk()
-root.geometry("800x500")
+root.geometry("1000x500")
 root.config(bg='gray')
 root.title('Evidencia 3: juego de preguntas')
 

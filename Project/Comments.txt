@@ -1,0 +1,5 @@
+Se debe ejecutar el archivo desde la carpeta "Project" para así pueda el programa encontrar el archivo .json y poder ejecutarlo
+
+Ejemplo:
+    C:/../../../../../../../Juego de Carbono/Project py questions.py
+    cd Project
