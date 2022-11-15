@@ -27,8 +27,8 @@ class Quiz:
 	def display_result(self):
 		
 		wrong_count = self.data_size - self.correct
-		correct = f"Correct: {self.correct}"
-		wrong = f"Wrong: {wrong_count}"
+		correct = f"Correctas: {self.correct}"
+		wrong = f"Incorrectas: {wrong_count}"
 		
 		score = int(self.correct / self.data_size * 100)
 		result = f"Score: {score}%"
